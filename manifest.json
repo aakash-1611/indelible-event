@@ -1,0 +1,12 @@
+{
+  "name": "Indelible Events and Management Pvt. Ltd.",
+  "short_name": "Indelible Events",
+  "description": "We are Indelible Events - Mumbai Based Event Management Company in India. Recognized as Best Event Organisers in India. B2B Event Management Company",
+  "theme_color": "#56C5B6",
+  "start_url": "/index.html",
+  "icons": [{
+    "src": "assets/logo/1.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }]
+}
