@@ -21,8 +21,7 @@ var filesToCache = [
   'assets/js/main.js',
   'assets/js/form-validator.min.js',
   'assets/js/numscroller.js',
-  'assets/js/contact-form-script.min.js',
-  'assets/img/c1.png'
+  'assets/js/contact-form-script.min.js'
 ];
 
 self.addEventListener('install', function(e) {
