@@ -1057,6 +1057,10 @@ line-height: 2.4 !important;
   margin-left: 10px;
 }
 
+.ml50{
+  margin-left: 50px;
+}
+
 .map {
 	position: relative;
 	padding-bottom: 56.25%;
