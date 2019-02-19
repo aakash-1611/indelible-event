@@ -149,3 +149,8 @@ if ('serviceWorker' in navigator) {
            .register('./service-worker.js')
            .then(function() { console.log('Service Worker Registered'); });
 }
+
+$('.lazy-image').each(function() {
+	var imageDataSource = $(this).data('src').toString();
+  var setImageSource = $(this).attr('src', imageDataSource);
+});

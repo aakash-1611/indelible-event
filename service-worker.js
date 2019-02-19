@@ -1,7 +1,6 @@
 var cacheName = 'indelible events';
 var filesToCache = [
   '/',
-  '/index.html',
   'assets/css/bootstrap.min.css',
   'assets/fonts/line-icons.css',
   'assets/css/owl.carousel.min.css',
